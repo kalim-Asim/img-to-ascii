@@ -49,5 +49,5 @@ def generate_ascii_art(input_image, output_file, width=80):
 
 # Run Steps
 calculate_ascii_densities()
-generate_ascii_art("/mnt/c/Users/asimk/OneDrive/Desktop/CGV LAB/Assignment 1/input_image.jpeg", "ascii_art.txt")
+generate_ascii_art("your image location", "ascii_art.txt")
 
