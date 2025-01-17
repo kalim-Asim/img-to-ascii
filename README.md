@@ -13,6 +13,7 @@
     ```
     
   - (for python)
+      - update image location in .py file
      ```bash
      pip3 install pillow (for python)
      ```
